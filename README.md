@@ -1,2 +1,2 @@
 # 1brc_go
-Iteration on the One Billioj Row Challenge but done using Golang
+Iteration on the One Billion Row Challenge but done using Golang
